@@ -1,4 +1,9 @@
 {
   "name": "woyera",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Library to use Woyera Data Cleaning",
+  "license": "MIT",
+  "repository": "woyera-npm",
+  "main": "index.js",
+  "keywords": ["data cleaning", "customer data", "email validation", "address cleaning", "geocode", "name format", "company name"] 
 }
